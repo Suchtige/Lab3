@@ -11,3 +11,9 @@ J:\OOAiP\Labs\Lab3\app\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 J:\OOAiP\Labs\Lab3\app\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 J:\OOAiP\Labs\Lab3\app\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 J:\OOAiP\Labs\Lab3\app\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\OOAiP\Labs\Lab3\app\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\OOAiP\Labs\Lab3\app\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\OOAiP\Labs\Lab3\app\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\OOAiP\Labs\Lab3\app\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\OOAiP\Labs\Lab3\app\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\OOAiP\Labs\Lab3\app\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
