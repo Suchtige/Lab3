@@ -8,12 +8,11 @@ namespace ConsoleApplication1 {
     class Program {
         static void Main(string[] args) {
 
-            Console.WriteLine("Код товара: 1\nНазвание товара: Балтика 7\nНоменклатура: 1\nОбъем: 0,5\nПроизводитель: Балтика продакшн\n" +
-                "Цена: 70\n");
+            scroll scroll1 = new scroll(1, "пиво", 10);
+            product product1 = new product(1, "Балтика", scroll1, 0.5, 70, "Балтика продакшн");
+            product1.info();
             Console.ReadLine();
-            //Console.WriteLine("Сколько лет?");
-            //int age = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("Тебе " + age);
+            
         }
         
     }

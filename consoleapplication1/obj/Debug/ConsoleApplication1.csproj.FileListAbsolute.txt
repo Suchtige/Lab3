@@ -5,3 +5,9 @@ J:\OOAiP\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.p
 J:\OOAiP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 J:\OOAiP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 J:\OOAiP\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+J:\OOAiP\Labs\Lab3\app\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+J:\OOAiP\Labs\Lab3\app\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+J:\OOAiP\Labs\Lab3\app\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+J:\OOAiP\Labs\Lab3\app\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+J:\OOAiP\Labs\Lab3\app\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+J:\OOAiP\Labs\Lab3\app\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
